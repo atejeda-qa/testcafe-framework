@@ -17,6 +17,6 @@ test('Fisrt testcase', async t => {
         .click(myBalance.continueRechargeBtn)
         .click(myBalance.finalStepRechargeBtn)
         .wait(3000)
-        .navigateTo(`${config.test_env.url.baseUrl}`)
+        .navigateTo(`${config.test_env.baseUrl}`)
         .click(header.myBalance)
 })
