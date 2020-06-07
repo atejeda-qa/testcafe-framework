@@ -1,0 +1,15 @@
+{
+  "name": "automation-testcafe",
+  "version": "1.0.0",
+  "description": "Project to learn testcafe - automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe firefox"
+  },
+  "author": "Alfred Tejeda Mercado",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/testcafe": "^4.2.0",
+    "testcafe": "^1.8.6"
+  }
+}
