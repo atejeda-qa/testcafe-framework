@@ -1,5 +1,5 @@
 import { t } from 'testcafe'
-import login from '../page-models/login'
+import login from '../page-objects/login'
 
 class DoLogin {
     async logIntoAccount(email, password) {

@@ -1,5 +1,5 @@
 import { t, Selector } from 'testcafe'
-import logout from '../page-models/header'
+import logout from '../page-objects/header'
 
 class DoLogout {
     async logout() {
