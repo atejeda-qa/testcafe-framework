@@ -27,3 +27,9 @@ a2censo-automation
 ```sh 
 $ npm run test
 ```
+## Libraries
+We use some libraries like:
+1. [TestCafe Testing Library](https://testing-library.com/docs/testcafe-testing-library/intro)
+
+## Architecture
+To this project implement 2 design patterns for test automation: [Page Object Model](https://medium.com/tech-tajawal/page-object-model-pom-design-pattern-f9588630800b) and [Screen Play](https://moduscreate.com/blog/the-screenplay-test-design-pattern/). With this patterns' combination we'll obtain better performance and maintainability.
