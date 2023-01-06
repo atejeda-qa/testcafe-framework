@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "@testing-library/testcafe": "^4.2.0",
-    "testcafe": "^1.8.6"
+    "testcafe": "^1.20.1"
   }
 }
